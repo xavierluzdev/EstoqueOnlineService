@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EstoqueOnlineService.Material.Entidades.Material">
+    <Position X="1.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAEAAABAAAgAAAAAAAACAAAAEAEAAAAAIEAAEA=</HashCode>
+      <FileName>Material\Entidades\Material.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EstoqueOnlineService.Material.Entidades.ItemMaterial">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEACAAAEAAABAAAAAAQAAAAAAAAAAEAAAAAAAAEAAAA=</HashCode>
+      <FileName>Material\Entidades\ItemMaterial.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EstoqueOnlineService.Material.Entidades.Categoria">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAEAAABAAAAAAAAAAAAAAAAAEAAAAAAAAEAAAI=</HashCode>
+      <FileName>Material\Entidades\Categoria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EstoqueOnlineService.Material.Entidades.Classificacao">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAEAAABAAAAAAAAAAAAAAAAAEAAAAAAAAEAAAI=</HashCode>
+      <FileName>Material\Entidades\Classificacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
