@@ -9,7 +9,7 @@ namespace EstoqueOnlineService.Banco
     public class SqlServerFactory
     {
         private SqlConnection connection = null;
-        private const string CONNECTIONSTRING = @"Data Source=D-PROD-BP100906\SQLEXPRESS\SQLEXPRESS;Initial Catalog=EstoqueOnline;User ID=sa;Password=@Prodesp2018";
+        private const string CONNECTIONSTRING = @"Data Source=D-PROD-BP100906\SQLEXPRESS;Initial Catalog=EstoqueOnline;persist security info=True;User ID=sa;Password=@Prodesp2018;MultipleActiveResultSets=True;App=EntityFramework";
 
         private SqlServerFactory()
         {
